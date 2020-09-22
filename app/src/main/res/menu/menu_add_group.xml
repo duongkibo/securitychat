@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_add_group"
+        android:icon="@drawable/collaboration"
+        android:title="Tạo Nhóm"
+      >
+
+    </item>
+    <item
+        android:id="@+id/item_add_friend"
+        android:icon="@drawable/add"
+        android:title="Thêm bạn"
+        >
+
+    </item>
+    <item
+        android:id="@+id/item_scan_qr"
+        android:icon="@drawable/qr_code_24"
+        android:title="Quét mã QR"
+        >
+
+    </item>
+    <item
+        android:id="@+id/item_history_login"
+        android:icon="@drawable/history"
+        android:title="Lịch Sử đăng nhập"
+       >
+
+    </item>
+    <item
+        android:id="@+id/item_calandar_zalo"
+        android:icon="@drawable/calendar"
+        android:title="Lịch Zalo"
+       >
+
+    </item>
+    <item
+        android:id="@+id/item_tranfer_file"
+        android:icon="@drawable/transfer"
+        android:title="Truyển file"
+        >
+
+    </item>
+
+</menu>
